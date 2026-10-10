@@ -1,0 +1,9 @@
+{
+  "name": "dr-raghda-exam-app",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@neondatabase/serverless": "^0.10.1",
+    "@vercel/blob": "^0.23.4"
+  }
+}
